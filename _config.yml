@@ -1,0 +1,23 @@
+name: Camden
+favicon: null
+layout_spectrum: 0.7084237346425653
+typography_spectrum: 0.1492655121255666
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5827389874029905
+  lightness: 0.8942864986602217
+  saturation: 0.9541043795179576
+  rhythmicContrast: 0.891036081360653
+purpose: []
