@@ -1,7 +1,7 @@
 name: Camden
 favicon: null
-layout_spectrum: 0.7084237346425653
-typography_spectrum: 0.1492655121255666
+layout_spectrum: 0.5209
+typography_spectrum: 0.12217
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.5827389874029905
-  lightness: 0.8942864986602217
-  saturation: 0.9541043795179576
-  rhythmicContrast: 0.891036081360653
+  brandColors:
+    - '#0063a4'
+    - '#fffde8'
+    - '#cbb3c1'
+    - '#000200'
+    - '#465d09'
+  brandStrength: 0.9375
+  lightness: 0.8125
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
