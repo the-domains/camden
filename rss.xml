@@ -4,14 +4,14 @@
         <description><![CDATA[Camden's Corner]]></description>
         <link>https://thegrid.ai/camden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 23:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 23:28:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/camden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wassup?]]></title>
-            <description><![CDATA[<p>Howdy! You've stumbled into my little corner of the internet! If you decide to stay, I'll be posting what I've been doing, minecraft videos (if you haven't heard heard of minecraft, go look it up!), and more.</p>]]></description>
+            <description><![CDATA[<article><h1>Wassup?</h1><p>Howdy! You've stumbled into my little corner of the internet! If you decide to stay, I'll be posting what I've been doing, minecraft videos (if you haven't heard heard of minecraft, go look it up!), and more.</p></article>]]></description>
             <link>https://thegrid.ai/camden/wassup/index.html</link>
             <guid isPermaLink="false">f7306fb9-406a-4ff9-b82b-f63960c22b79</guid>
-            <pubDate>Sun, 20 Dec 2015 01:58:22 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2016 23:28:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
